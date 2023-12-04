@@ -2,7 +2,10 @@ rencana content:
 JavaScript :
   *ES6
   *Framework JS
+   ^ Vue
 Fundamental Data Structure
 PHP framework
+ ^ Laravel
 Interview
 Vlog
+Phython
