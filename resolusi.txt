@@ -2,5 +2,5 @@ RESOLUSI:
 - Perpanjang Pajak Motor
 - Beli SSD
 - ganti key BCA
-- belajar GIT
 - belajar laravel 9
+- belajar AI
