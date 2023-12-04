@@ -2,7 +2,9 @@ rencana content:
 JavaScript :
   *ES6
   *Framework JS
-Fundamental Data Structure
+   ^ Angular
+   ^ React
 PHP framework
+ ^ Laravel
 Interview
 Vlog
