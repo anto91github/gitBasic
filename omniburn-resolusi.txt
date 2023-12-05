@@ -1,0 +1,5 @@
+salkel ini omniburn5
+
+resolusi:
+- membuat website use js
+- bekerja di startup
